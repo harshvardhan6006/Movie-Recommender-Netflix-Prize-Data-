@@ -1,1 +1,2 @@
-# Movie-Recommender-Netflix-Prize-Data-
+# Movie-Recommender-System
+MORE CHOICES, LESS HAPPINESS
